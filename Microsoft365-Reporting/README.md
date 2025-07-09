@@ -100,17 +100,17 @@ After data is inserted into SQL Server:
 
 📌 **Author**
 Hamzeh Azari Hashjin
-☁️ Cloud & Systems Admin | 💻 12+ years in Hosting & Infrastructure
-📍 Based in Montreal, Canada
-🌐 LinkedIn Profile : https://www.linkedin.com/in/hamzeh-azari/
+- ☁️ Cloud & Systems Admin | 💻 12+ years in Hosting & Infrastructure
+- 📍 Based in Montreal, Canada
+- 🌐 LinkedIn Profile : https://www.linkedin.com/in/hamzeh-azari/
 
 🛡️ License
-MIT License. Feel free to use, adapt and share with credit.
+- MIT License. Feel free to use, adapt and share with credit.
 
 🤝 **Contributions**
-Pull requests, feature ideas or bug reports are welcome — especially if you add support for:
- - Windows Authentication to SQL Server
- - Multiple time ranges (e.g., D30, D90)
- - Exporting the data to Excel or SharePoint
++ Pull requests, feature ideas or bug reports are welcome — especially if you add support for:
+  - Windows Authentication to SQL Server
+  - Multiple time ranges (e.g., D30, D90)
+  - Exporting the data to Excel or SharePoint
 
 
