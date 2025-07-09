@@ -82,3 +82,35 @@ You’ll need to replace the following placeholders in the script:
 2. Make sure the `ImportExcel` module is available:
    ```powershell
    Install-Module -Name ImportExcel -Scope CurrentUser -Force
+3. Modify and save the script with your own credentials and emails
+4. Run it:
+    .\EmailActivity-To-SQL.ps1
+
+## 📈 Visualize in Power BI
+
+After data is inserted into SQL Server:
+
+1. Open Power BI Desktop
+2. Go to Home > Get Data > SQL Server
+3. Connect to your server and select the table (e.g. EmailActivity)
+4. Create charts using:
+ - Send/Receive counts per user
+ - Weekly trends
+ - Activity rankings
+
+📌 **Author**
+Hamzeh Azari Hashjin
+☁️ Cloud & Systems Admin | 💻 12+ years in Hosting & Infrastructure
+📍 Based in Montreal, Canada
+🌐 LinkedIn Profile : https://www.linkedin.com/in/hamzeh-azari/
+
+🛡️ License
+MIT License. Feel free to use, adapt and share with credit.
+
+🤝 **Contributions**
+Pull requests, feature ideas or bug reports are welcome — especially if you add support for:
+ - Windows Authentication to SQL Server
+ - Multiple time ranges (e.g., D30, D90)
+ - Exporting the data to Excel or SharePoint
+
+
