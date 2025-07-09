@@ -94,9 +94,9 @@ After data is inserted into SQL Server:
 2. Go to Home > Get Data > SQL Server
 3. Connect to your server and select the table (e.g. EmailActivity)
 4. Create charts using:
- - Send/Receive counts per user
- - Weekly trends
- - Activity rankings
+   - Send/Receive counts per user
+   - Weekly trends
+   - Activity rankings
 
 📌 **Author**
 Hamzeh Azari Hashjin
