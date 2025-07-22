@@ -1,4 +1,4 @@
-# Microsoft 365 Email Activity Reporter to SQL Server 📊
+# Export Microsoft 365 Email Activity to SQL Server 📊
 
 This PowerShell project retrieves email activity details of selected users from **Microsoft 365** via the **Microsoft Graph API**, and inserts them into a **SQL Server** table — making it possible to visualize and analyze the data in **Power BI** or any reporting system.
 
