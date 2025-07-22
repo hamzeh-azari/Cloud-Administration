@@ -51,7 +51,7 @@ The following delegated permissions are required and must be admin-consented:
 ## 📁 Project Structure
 
 ```
-export-mfa-methods/
+AzureAD-Export-MFA-Methods/
 ├── Export-MFA-Methods.ps1
 └── README.md
 ```
