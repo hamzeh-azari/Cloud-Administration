@@ -4,7 +4,7 @@ This PowerShell project retrieves email activity details of selected users from 
 
 ---
 
-## 🔧 Use Cases
+## 📁 Use Cases
  
 - Track email send/receive counts for specific users or departments
 - Monitor internal communication trends
